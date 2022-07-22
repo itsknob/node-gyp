@@ -1,5 +1,17 @@
 # Changelog
 
+### [9.1.1](https://www.github.com/nodejs/node-gyp/compare/v9.1.0...v9.1.1) (2022-07-22)
+
+
+### Core
+
+* enable support for zoslib on z/OS ([#2600](https://www.github.com/nodejs/node-gyp/issues/2600)) ([83c0a12](https://www.github.com/nodejs/node-gyp/commit/83c0a12bf23b4cbf3125d41f9e2d4201db76c9ae))
+
+
+### Miscellaneous
+
+* update dependency - nopt@6.0.0 ([#2707](https://www.github.com/nodejs/node-gyp/issues/2707)) ([8958ecf](https://www.github.com/nodejs/node-gyp/commit/8958ecf2bb719227bbcbf155891c3186ee219a2e))
+
 ## [9.1.0](https://www.github.com/nodejs/node-gyp/compare/v9.0.0...v9.1.0) (2022-07-13)
 
 
